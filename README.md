@@ -4,7 +4,7 @@
 Here my [Linkedin Profile](https://www.linkedin.com/in/daniel-casvill/).
 
 ## My Data Science projects: 📈
-*  [PG_Olist](https://github.com/Casvill/PG-Olist-grupo12):  A grupal project where we help to an Argentinian E-commerce to evaluate the possibility of open a branch office in Brasil, based on an Olist dataset with over 100k sales records. We also provided a Big Data environment contained in Docker in case the E-commerce decide to open the branch office. My main rol in the project was Data Engineer.<br><br>
+*  [PG_Olist](https://github.com/Casvill/PG-Olist-grupo12):  A grupal project where we help to an Argentinian E-commerce to evaluate the possibility of open a branch office in Brasil, based on an Olist dataset with over 100k sales records. We also provided a Big Data environment contained in Docker in case the E-commerce decide to open the branch office. My main rol in the project was Data Engineer.
 * [Hackaton Henry](https://github.com/Casvill/Hackathon): A hackaton based on the famouse House price prediction, using the RMSLE (root mean squared log error) as score.
 
 * [PI](https://github.com/Casvill/DS-PI-ProyectoIndividual): An individual project where I did a procces of automation to extract, transform and load the data into a data base (ETL). I also provided a quality report with some plots showing the original state of the data.
