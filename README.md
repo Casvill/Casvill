@@ -1,8 +1,8 @@
 # Hello everyone! 👋
 
 ### My name is Daniel, I'm a Data Scientist 👨‍🔬💻 recently graduated of the Henry's Data Bootcamp 🚀. I'm currently looking for my first job in data. 👀  
-Here's my [Linkedin Profile](https://www.linkedin.com/in/daniel-casvill/).  
-Here's my [CV](https://docs.google.com/document/d/1EzAx9eJ_1SVWFvz7-_KBlqI3VrnIOXpYrYV3gGFWCpg/edit?usp=sharing).
+Here's my [Linkedin Profile](https://www.linkedin.com/in/daniel-casvill/?locale=en_US).  
+Here's my [CV](https://drive.google.com/file/d/1e3-t8dUHjkiPdUev4n7Ic45cklq4LVlX/view?usp=sharing).
 
 ## My Data Science projects: 📈
 *  [PG_Olist](https://github.com/Casvill/PG-Olist-grupo12):  A grupal project where we help to an Argentinian E-commerce to evaluate the possibility of open a branch office in Brasil, based on an Olist dataset with over 100k sales records. We also provided a Big Data environment contained in Docker in case the E-commerce decide to open the branch office. My main rol in the project was Data Engineer.
