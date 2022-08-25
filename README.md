@@ -4,7 +4,9 @@
 Here's my [Linkedin Profile](https://www.linkedin.com/in/daniel-casvill/?locale=en_US).  
 Here's my [CV](https://drive.google.com/file/d/1D8Q5RDaEPpJ724kcyuUiEYk5cjEm9ErF/view?usp=sharing).
 
-## My Data Science projects: 📈
+## My Data Science projects: 📈  
+*  [Alkemy Challenge](https://github.com/Casvill/AlkemyChallenge):  An ETL challenge project, containerized using Docker.  
+*  [Trip Advisor Scraper](https://github.com/Casvill/TripAdvisorScrapper): A web scraper written in Python that extracts restaurant information in Mexico from the Trip Advisor website and stores it into a csv files.  
 *  [PG_Olist](https://github.com/Casvill/PG-Olist-grupo12):  A grupal project where we help to an Argentinian E-commerce to evaluate the possibility of open a branch office in Brasil, based on an Olist dataset with over 100k sales records. We also provided a Big Data environment contained in Docker in case the E-commerce decide to open the branch office. My main rol in the project was Data Engineer.
 * [Hackaton Henry](https://github.com/Casvill/Hackathon): A hackaton based on the famouse House price prediction, using the RMSLE (root mean squared log error) as score.
 
