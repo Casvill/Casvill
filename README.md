@@ -2,7 +2,6 @@
 
 ### My name is Daniel, I'm a Data Scientist 👨‍🔬💻 recently graduated of the Henry's Data Bootcamp 🚀. I'm currently looking for my first job in data. 👀  
 Here's my [Linkedin Profile](https://www.linkedin.com/in/daniel-casvill/?locale=en_US).  
-Here's my [CV](https://drive.google.com/file/d/1D8Q5RDaEPpJ724kcyuUiEYk5cjEm9ErF/view?usp=sharing).
 
 ## My Data Science projects: 📈  
 *  [Alkemy Challenge](https://github.com/Casvill/AlkemyChallenge):  An ETL challenge project, containerized using Docker.  
